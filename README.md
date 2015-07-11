@@ -1,2 +1,3 @@
 # spicy
-Spicy Fried Tofu
+Spicy Fried Tofu.
+Perfect for fried noodle.
